@@ -1,0 +1,28 @@
+:root {
+  --background-image: url('https://i.imgur.com/a3Ciy1L.jpg');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url('https://i.imgur.com/a3Ciy1L.jpg');
+  --popout-modal-blur: 5px;
+  --popout-modal-size: auto;
+  --popout-modal-position: center left;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: 100%;
+  --home-button-position: center;
+  --serverlist-brightness: 0;
+  --left-brightness: 0.5;
+  --middle-brightness: 0.52;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.64;
+  --gradient-primary: 183,58,148;
+  --gradient-secondary: 225,0,121;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgb(213,75,117,1);
+  --gradient-direction: 360deg;
+  --tint-colour: 213,0,113;
+  --tint-brightness: 0.08;
+  --font: Tajawal;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+}
