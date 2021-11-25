@@ -1,14 +1,5 @@
-/**
-* @name McPvP Lite
-* @version v0.0.1
-* @description McPvP Lite more info 
-* @author enissaycula
-* @invite enissaycula
-* @Source https://discord.gg/ncntMP6
-* @website https://www.youtube.com/enissaycula
-*/
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
-@import url('https://fonts.googleapis.com/css2?family=VT323');
+@import url('https://fonts.googleapis.com/css2?family=Cairo');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
@@ -85,5 +76,5 @@
 --rs-streaming-color: #693DA7FF;
 --rs-invisible-color: #747f8d;
 --rs-phone-visible: block;
---customFont: 'VT323';
+--customFont: 'Cairo';
 }
